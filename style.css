@@ -41,7 +41,7 @@ ul a{
 .background{
     width:100%;
     height:500px;
-    background-image: url("../Assets/backgroundfruit.jpg");
+    background-image: url("./assets/backgroundfruit.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
